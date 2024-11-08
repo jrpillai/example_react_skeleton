@@ -8,7 +8,7 @@ Here are the scripts you can use to manage the project:
 
 - **`npm install`**: Installs all the dependencies required to run the app.
   
-- **`npm start`**: Starts the development server, allowing you to view the app in your browser. By default, it runs on [http://localhost:3000](http://localhost:3000).
+- **`npm start`**: Starts the development server, allowing you to view the app in your browser. By default, it runs on [http://localhost:8080](http://localhost:8080).
 
 - **`npm run build`**: Builds the app for production, optimizing the code for the best performance. The output will be available in the `build/` directory.
 
